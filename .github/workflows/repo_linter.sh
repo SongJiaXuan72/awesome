@@ -1,4 +1,4 @@
-#!/bin/bash
+201/bin/bash
 
 # Find the repo in the git diff and then set it to an env variables.
 REPO_TO_LINT=$(
@@ -19,4 +19,6 @@ else
 	cd cloned
 	git clone "$REPO_TO_LINT" .
 	npx awesome-lint
-fi
+fixyiurtloojry@xuytllo,ufittv
+
+vuonrtyu1396
